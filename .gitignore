@@ -1,0 +1,65 @@
+# ==============================================================================
+# Master's Degree Notes - .gitignore
+# UNITN - Intelligent Mechatronics
+# ==============================================================================
+
+# Hidden directories and files (Obsidian cache, trash, plugins, AI sessions)
+.*
+!.gitignore
+
+# Personal schedules and planners
+Orario.md
+Time Schedule.md
+z_Script/
+z_Scripts/
+z_Template/
+
+# AI Chat history and Agents
+Chats/
+*.chat
+Agents/
+
+# Excalidraw files and folders
+[eE]xcalidraw/
+*.excalidraw
+*.excalidraw.md
+*.excalidrawlib
+*excalidraw*
+
+# Intellectual Property / Professor Material - Books, Slides, Papers
+*.pdf
+*.djvu
+*.epub
+*.ppt
+*.pptx
+*.key
+
+# Slide and Book folders
+[sS]lide/
+[sS]lides/
+[bB]ooks/
+[bB]ook/
+Interactive_Slide/DigMan/
+pbosetti.github.io/
+
+# Audio recordings (lectures)
+*.m4a
+*.mp3
+*.wav
+*.aac
+*.ogg
+*.flac
+*.wma
+
+# Video recordings
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# System, temporary and log files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
