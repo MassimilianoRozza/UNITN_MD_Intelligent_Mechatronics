@@ -1,1 +1,4 @@
 - [matrix multiplication algorithm](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
+- [stm32 case](https://www.printables.com/model/1525629-stm32-nucelo-64-case-with-lid)
+- [github education pack](https://education.github.com/pack)
+- 
