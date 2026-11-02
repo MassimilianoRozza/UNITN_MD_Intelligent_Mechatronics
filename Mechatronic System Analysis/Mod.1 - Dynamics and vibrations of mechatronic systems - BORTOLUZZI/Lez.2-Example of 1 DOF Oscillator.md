@@ -69,4 +69,4 @@ This equation has the following properties:
 - linear
 - ordinary: depends only by $y$ and its differentials
 ## 6.
- To find a solution we can apply [[Laplace Transformation]]
+ To find a solution we can apply [[Mechatronic System Analysis/Mod.1 - Dynamics and vibrations of mechatronic systems - BORTOLUZZI/0.0.1 - Laplace Transformation|0.0.1 - Laplace Transformation]]
